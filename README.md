@@ -20,7 +20,7 @@ Programmet:
 
 Den ferdige Windows-versjonen ligger under
 [Releases](https://github.com/LordM8YT/Steam-Libary-Organizer/releases/latest).
-Åpne den nyeste utgivelsen og last ned `Steam Bibliotek Rydder.exe` under
+Åpne den nyeste utgivelsen og last ned `Steam-Bibliotek-Rydder.exe` under
 **Assets**.
 
 EXE-filen ligger som et Release-vedlegg fordi den selvstendige utgaven
