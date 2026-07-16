@@ -16,14 +16,24 @@ Programmet:
 - tar sikkerhetskopi av Steam-filene før skriving
 - kan oppdatere egne samlinger uten å lage duplikater
 
+## Last ned
+
+Den ferdige Windows-versjonen ligger under
+[Releases](https://github.com/LordM8YT/Steam-Libary-Organizer/releases/latest).
+Åpne den nyeste utgivelsen og last ned `Steam Bibliotek Rydder.exe` under
+**Assets**.
+
+EXE-filen ligger som et Release-vedlegg fordi den selvstendige utgaven
+inneholder .NET og derfor er større enn GitHubs filgrense for vanlig kildekode.
+
 ## Bruk
 
-1. Start `SteamBibliotekRydder.exe`.
+1. Start `Steam Bibliotek Rydder.exe`.
 2. Vent mens biblioteket skannes.
 3. Huk av samlingene du vil opprette.
-4. La **Erstatt eksisterende egendefinerte samlinger** være valgt dersom
-   programmets kategorier skal overta for de gamle.
-5. Klikk **Skriv valgte samlinger**.
+4. La **Unngå duplikater** være aktivert dersom programmets samlinger skal
+   overta for de gamle.
+5. Klikk **Organiser samlinger**.
 6. Tillat at Steam avsluttes kontrollert.
 7. Start Steam igjen når programmet spør.
 
